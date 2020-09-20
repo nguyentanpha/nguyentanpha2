@@ -1,0 +1,144 @@
+D:\UNIVERSITY\.NET\doanmon\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\Phanmem_QL Quan CaPhe.exe.config
+D:\UNIVERSITY\.NET\doanmon\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\Phanmem_QL Quan CaPhe.exe
+D:\UNIVERSITY\.NET\doanmon\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\Phanmem_QL Quan CaPhe.pdb
+D:\UNIVERSITY\.NET\doanmon\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.csprojAssemblyReference.cache
+D:\UNIVERSITY\.NET\doanmon\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.Properties.Resources.resources
+D:\UNIVERSITY\.NET\doanmon\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.csproj.GenerateResource.cache
+D:\UNIVERSITY\.NET\doanmon\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.csproj.CoreCompileInputs.cache
+D:\UNIVERSITY\.NET\doanmon\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.exe
+D:\UNIVERSITY\.NET\doanmon\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.pdb
+D:\UNIVERSITY\.NET\doanmon\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.FormLogin.resources
+D:\UNIVERSITY\.NET\doanmon\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.FormManager.resources
+D:\UNIVERSITY\.NET\doanmon\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.FormInforAccount.resources
+D:\UNIVERSITY\.NET\doanmon\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.FormSoftwareManagement.resources
+D:\project\CNPM\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\Phanmem_QL Quan CaPhe.exe.config
+D:\project\CNPM\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.exe
+D:\project\CNPM\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.pdb
+D:\project\CNPM\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\Phanmem_QL Quan CaPhe.exe
+D:\project\CNPM\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\Phanmem_QL Quan CaPhe.pdb
+D:\project\CNPM\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\mscorlib.dll
+D:\project\CNPM\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\System.Net.Http.dll
+D:\project\CNPM\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\System.Net.Http.xml
+D:\project\CNPM\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\normidna.nlp
+D:\project\CNPM\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\normnfc.nlp
+D:\project\CNPM\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\normnfd.nlp
+D:\project\CNPM\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\normnfkc.nlp
+D:\project\CNPM\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\normnfkd.nlp
+D:\project\CNPM\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.csprojResolveAssemblyReference.cache
+D:\project\CNPM\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.FormInforAccount.resources
+D:\project\CNPM\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.FormManager.resources
+D:\project\CNPM\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.FormLogin.resources
+D:\project\CNPM\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.FormSoftwareManagement.resources
+D:\project\CNPM\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.Properties.Resources.resources
+D:\project\CNPM\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.csproj.GenerateResource.Cache
+D:\project\CNPM\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\Phanmem_QL Quan CaPhe.exe.config
+D:\project\CNPM\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.exe
+D:\project\CNPM\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.pdb
+D:\project\CNPM\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\Phanmem_QL Quan CaPhe.exe
+D:\project\CNPM\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\Phanmem_QL Quan CaPhe.pdb
+D:\project\CNPM\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\mscorlib.dll
+D:\project\CNPM\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\System.Net.Http.dll
+D:\project\CNPM\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\System.Net.Http.xml
+D:\project\CNPM\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\normidna.nlp
+D:\project\CNPM\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\normnfc.nlp
+D:\project\CNPM\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\normnfd.nlp
+D:\project\CNPM\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\normnfkc.nlp
+D:\project\CNPM\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\normnfkd.nlp
+D:\project\CNPM\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.csprojResolveAssemblyReference.cache
+D:\project\CNPM\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.FormInforAccount.resources
+D:\project\CNPM\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.FormManager.resources
+D:\project\CNPM\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.FormLogin.resources
+D:\project\CNPM\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.FormSoftwareManagement.resources
+D:\project\CNPM\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.Properties.Resources.resources
+D:\project\CNPM\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.csproj.GenerateResource.Cache
+C:\Users\trung\Downloads\QL QUAN CAFE (Nhóm) (1)\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\Phanmem_QL Quan CaPhe.exe.config
+C:\Users\trung\Downloads\QL QUAN CAFE (Nhóm) (1)\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\Phanmem_QL Quan CaPhe.exe
+C:\Users\trung\Downloads\QL QUAN CAFE (Nhóm) (1)\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\Phanmem_QL Quan CaPhe.pdb
+C:\Users\trung\Downloads\QL QUAN CAFE (Nhóm) (1)\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.csprojAssemblyReference.cache
+C:\Users\trung\Downloads\QL QUAN CAFE (Nhóm) (1)\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.FormInforAccount.resources
+C:\Users\trung\Downloads\QL QUAN CAFE (Nhóm) (1)\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.FormManager.resources
+C:\Users\trung\Downloads\QL QUAN CAFE (Nhóm) (1)\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.FormLogin.resources
+C:\Users\trung\Downloads\QL QUAN CAFE (Nhóm) (1)\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.FormSoftwareManagement.resources
+C:\Users\trung\Downloads\QL QUAN CAFE (Nhóm) (1)\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.Properties.Resources.resources
+C:\Users\trung\Downloads\QL QUAN CAFE (Nhóm) (1)\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.csproj.GenerateResource.cache
+C:\Users\trung\Downloads\QL QUAN CAFE (Nhóm) (1)\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.csproj.CoreCompileInputs.cache
+C:\Users\trung\Downloads\QL QUAN CAFE (Nhóm) (1)\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.exe
+C:\Users\trung\Downloads\QL QUAN CAFE (Nhóm) (1)\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.pdb
+D:\UNIVERSITY\.NET\doanmon\QL QUAN CAFE (Nhóm) (1)\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\Phanmem_QL Quan CaPhe.exe.config
+D:\UNIVERSITY\.NET\doanmon\QL QUAN CAFE (Nhóm) (1)\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\Phanmem_QL Quan CaPhe.exe
+D:\UNIVERSITY\.NET\doanmon\QL QUAN CAFE (Nhóm) (1)\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\Phanmem_QL Quan CaPhe.pdb
+D:\UNIVERSITY\.NET\doanmon\QL QUAN CAFE (Nhóm) (1)\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.csprojAssemblyReference.cache
+D:\UNIVERSITY\.NET\doanmon\QL QUAN CAFE (Nhóm) (1)\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.FormInforAccount.resources
+D:\UNIVERSITY\.NET\doanmon\QL QUAN CAFE (Nhóm) (1)\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.FormManager.resources
+D:\UNIVERSITY\.NET\doanmon\QL QUAN CAFE (Nhóm) (1)\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.FormLogin.resources
+D:\UNIVERSITY\.NET\doanmon\QL QUAN CAFE (Nhóm) (1)\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.FormSoftwareManagement.resources
+D:\UNIVERSITY\.NET\doanmon\QL QUAN CAFE (Nhóm) (1)\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.Properties.Resources.resources
+D:\UNIVERSITY\.NET\doanmon\QL QUAN CAFE (Nhóm) (1)\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.csproj.GenerateResource.cache
+D:\UNIVERSITY\.NET\doanmon\QL QUAN CAFE (Nhóm) (1)\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.csproj.CoreCompileInputs.cache
+D:\UNIVERSITY\.NET\doanmon\QL QUAN CAFE (Nhóm) (1)\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.exe
+D:\UNIVERSITY\.NET\doanmon\QL QUAN CAFE (Nhóm) (1)\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.pdb
+C:\Users\trung\Downloads\QL QUAN CAFE hienthibanan\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\Phanmem_QL Quan CaPhe.exe.config
+C:\Users\trung\Downloads\QL QUAN CAFE hienthibanan\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\Phanmem_QL Quan CaPhe.exe
+C:\Users\trung\Downloads\QL QUAN CAFE hienthibanan\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\Phanmem_QL Quan CaPhe.pdb
+C:\Users\trung\Downloads\QL QUAN CAFE hienthibanan\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.csprojAssemblyReference.cache
+C:\Users\trung\Downloads\QL QUAN CAFE hienthibanan\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.FormInforAccount.resources
+C:\Users\trung\Downloads\QL QUAN CAFE hienthibanan\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.FormManager.resources
+C:\Users\trung\Downloads\QL QUAN CAFE hienthibanan\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.FormLogin.resources
+C:\Users\trung\Downloads\QL QUAN CAFE hienthibanan\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.FormSoftwareManagement.resources
+C:\Users\trung\Downloads\QL QUAN CAFE hienthibanan\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.Properties.Resources.resources
+C:\Users\trung\Downloads\QL QUAN CAFE hienthibanan\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.csproj.GenerateResource.cache
+C:\Users\trung\Downloads\QL QUAN CAFE hienthibanan\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.csproj.CoreCompileInputs.cache
+C:\Users\trung\Downloads\QL QUAN CAFE hienthibanan\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.exe
+C:\Users\trung\Downloads\QL QUAN CAFE hienthibanan\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.pdb
+D:\UNIVERSITY\.NET\doanmon\QL QUAN CAFE (hienthibanan)\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\Phanmem_QL Quan CaPhe.exe.config
+D:\UNIVERSITY\.NET\doanmon\QL QUAN CAFE (hienthibanan)\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\Phanmem_QL Quan CaPhe.exe
+D:\UNIVERSITY\.NET\doanmon\QL QUAN CAFE (hienthibanan)\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\Phanmem_QL Quan CaPhe.pdb
+D:\UNIVERSITY\.NET\doanmon\QL QUAN CAFE (hienthibanan)\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.csprojAssemblyReference.cache
+D:\UNIVERSITY\.NET\doanmon\QL QUAN CAFE (hienthibanan)\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.FormInforAccount.resources
+D:\UNIVERSITY\.NET\doanmon\QL QUAN CAFE (hienthibanan)\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.FormManager.resources
+D:\UNIVERSITY\.NET\doanmon\QL QUAN CAFE (hienthibanan)\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.FormLogin.resources
+D:\UNIVERSITY\.NET\doanmon\QL QUAN CAFE (hienthibanan)\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.FormSoftwareManagement.resources
+D:\UNIVERSITY\.NET\doanmon\QL QUAN CAFE (hienthibanan)\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.Properties.Resources.resources
+D:\UNIVERSITY\.NET\doanmon\QL QUAN CAFE (hienthibanan)\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.csproj.GenerateResource.cache
+D:\UNIVERSITY\.NET\doanmon\QL QUAN CAFE (hienthibanan)\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.csproj.CoreCompileInputs.cache
+D:\UNIVERSITY\.NET\doanmon\QL QUAN CAFE (hienthibanan)\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.exe
+D:\UNIVERSITY\.NET\doanmon\QL QUAN CAFE (hienthibanan)\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.pdb
+D:\UNIVERSITY\.NET\doanmon\QL QUAN CAFE (hienthibanan)\QL QUAN CAFE (them bot mon cho hoa don )\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\Phanmem_QL Quan CaPhe.exe.config
+D:\UNIVERSITY\.NET\doanmon\QL QUAN CAFE (hienthibanan)\QL QUAN CAFE (them bot mon cho hoa don )\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\Phanmem_QL Quan CaPhe.exe
+D:\UNIVERSITY\.NET\doanmon\QL QUAN CAFE (hienthibanan)\QL QUAN CAFE (them bot mon cho hoa don )\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\Phanmem_QL Quan CaPhe.pdb
+D:\UNIVERSITY\.NET\doanmon\QL QUAN CAFE (hienthibanan)\QL QUAN CAFE (them bot mon cho hoa don )\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.csprojAssemblyReference.cache
+D:\UNIVERSITY\.NET\doanmon\QL QUAN CAFE (hienthibanan)\QL QUAN CAFE (them bot mon cho hoa don )\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.FormInforAccount.resources
+D:\UNIVERSITY\.NET\doanmon\QL QUAN CAFE (hienthibanan)\QL QUAN CAFE (them bot mon cho hoa don )\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.FormManager.resources
+D:\UNIVERSITY\.NET\doanmon\QL QUAN CAFE (hienthibanan)\QL QUAN CAFE (them bot mon cho hoa don )\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.FormLogin.resources
+D:\UNIVERSITY\.NET\doanmon\QL QUAN CAFE (hienthibanan)\QL QUAN CAFE (them bot mon cho hoa don )\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.FormSoftwareManagement.resources
+D:\UNIVERSITY\.NET\doanmon\QL QUAN CAFE (hienthibanan)\QL QUAN CAFE (them bot mon cho hoa don )\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.Properties.Resources.resources
+D:\UNIVERSITY\.NET\doanmon\QL QUAN CAFE (hienthibanan)\QL QUAN CAFE (them bot mon cho hoa don )\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.csproj.GenerateResource.cache
+D:\UNIVERSITY\.NET\doanmon\QL QUAN CAFE (hienthibanan)\QL QUAN CAFE (them bot mon cho hoa don )\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.csproj.CoreCompileInputs.cache
+D:\UNIVERSITY\.NET\doanmon\QL QUAN CAFE (hienthibanan)\QL QUAN CAFE (them bot mon cho hoa don )\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.exe
+D:\UNIVERSITY\.NET\doanmon\QL QUAN CAFE (hienthibanan)\QL QUAN CAFE (them bot mon cho hoa don )\QL QUAN CAFE (Nhóm)\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.pdb
+C:\Users\trung\Desktop\QL QUAN CAFE\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\Phanmem_QL Quan CaPhe.exe.config
+C:\Users\trung\Desktop\QL QUAN CAFE\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\Phanmem_QL Quan CaPhe.exe
+C:\Users\trung\Desktop\QL QUAN CAFE\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\Phanmem_QL Quan CaPhe.pdb
+C:\Users\trung\Desktop\QL QUAN CAFE\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.csprojAssemblyReference.cache
+C:\Users\trung\Desktop\QL QUAN CAFE\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.FormInforAccount.resources
+C:\Users\trung\Desktop\QL QUAN CAFE\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.FormManager.resources
+C:\Users\trung\Desktop\QL QUAN CAFE\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.FormLogin.resources
+C:\Users\trung\Desktop\QL QUAN CAFE\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.FormSoftwareManagement.resources
+C:\Users\trung\Desktop\QL QUAN CAFE\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.Properties.Resources.resources
+C:\Users\trung\Desktop\QL QUAN CAFE\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.csproj.GenerateResource.cache
+C:\Users\trung\Desktop\QL QUAN CAFE\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.csproj.CoreCompileInputs.cache
+C:\Users\trung\Desktop\QL QUAN CAFE\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.exe
+C:\Users\trung\Desktop\QL QUAN CAFE\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.pdb
+D:\SANGT4\doan\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\Phanmem_QL Quan CaPhe.exe.config
+D:\SANGT4\doan\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\Phanmem_QL Quan CaPhe.exe
+D:\SANGT4\doan\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\bin\Debug\Phanmem_QL Quan CaPhe.pdb
+D:\SANGT4\doan\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.csprojAssemblyReference.cache
+D:\SANGT4\doan\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.FormInforAccount.resources
+D:\SANGT4\doan\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.FormManager.resources
+D:\SANGT4\doan\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.FormLogin.resources
+D:\SANGT4\doan\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.FormSoftwareManagement.resources
+D:\SANGT4\doan\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL_Quan_CaPhe.Properties.Resources.resources
+D:\SANGT4\doan\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.csproj.GenerateResource.cache
+D:\SANGT4\doan\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.csproj.CoreCompileInputs.cache
+D:\SANGT4\doan\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.exe
+D:\SANGT4\doan\Phanmem_QL Quan CaPhe\Phanmem_QL Quan CaPhe\obj\Debug\Phanmem_QL Quan CaPhe.pdb
